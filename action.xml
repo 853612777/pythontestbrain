@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AI>
+	<Map type="SEQ" desc='打球' target='playball' weight='100'>
+		<Map type='SEQ' desc='去球场' target='toball' weight='100'/>
+	</Map>
+	<Map type='SEQ' desc='聊天' target='talk' weight='100'/>
+</AI>
